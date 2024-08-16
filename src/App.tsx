@@ -46,9 +46,6 @@ function App() {
       <div className="card">
         <button onClick={handleStart}>start</button>
         <button onClick={handleStop}>stop</button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
       </div>
     </>
   );
